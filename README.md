@@ -1,4 +1,4 @@
-Pole Chudes (Wheel of Fortune) — C Console Game
+#Pole Chudes (Wheel of Fortune) — C Console Game
 📌 Description
 
 This project is a console-based implementation of the classic game "Pole Chudes" (known internationally as "Wheel of
